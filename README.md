@@ -35,7 +35,7 @@ Search **@YourAriaBot** on Telegram — 20 messages free.
 
 ## 🔧 Tech
 
-DeepSeek v4 Flash · OpenRouter · Raw Telegram API · SQLite · Python 3.13 · Docker on Synology NAS
+DeepSeek v4 Flash · OpenRouter · Raw Telegram API · SQLite · Python 3.13 · Docker
 
 ---
 
