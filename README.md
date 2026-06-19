@@ -18,13 +18,36 @@ Aria is a Telegram-native AI companion designed for real connection. Not a custo
 | Plan | Messages | Price |
 |------|----------|-------|
 | **Free Trial** | 20 messages | Free |
-| **Unlimited** | Unlimited | 300 Stars/month (~$3 USD) |
+| **Premium** | Unlimited | 300 Stars/month (~ USD) |
 
 No Stripe. No credit cards. Telegram Stars only — the safest payment method for AI companions.
 
 ## 🚀 Try Her Now
 
 Search **@YourAriaBot** on Telegram — 20 messages free.
+
+## 🚗 Roadmap
+
+### Phase 1 — Live Now
+- ✅ Flirty, warm AI companion
+- ✅ 18+ age gate and content moderation
+- ✅ Privacy-first (RAM-only conversations)
+- ✅ Telegram Stars payments
+
+### Phase 2 — Skills (Coming Soon)
+- 📅 Morning summaries and daily briefings
+- ⏰ Reminders and scheduling
+- ☀️ Weather and time-aware responses
+
+### Phase 3 — Voice (Planned)
+- 🎙️ Text-to-speech replies
+- Voice personality customization
+
+### Phase 4 — Exclusive Tier (Planned)
+- 🧠 Long-term memory across sessions
+- 🎭 Personality customization
+- ⭐ Priority AI model access
+- 💬 Enhanced context window
 
 ## 🛡️ Privacy
 
@@ -35,7 +58,7 @@ Search **@YourAriaBot** on Telegram — 20 messages free.
 
 ## 🔧 Tech
 
-DeepSeek v4 Flash · OpenRouter · Raw Telegram API · SQLite · Python 3.13 · Docker
+DeepSeek v4 Flash · OpenRouter · Raw Telegram API · SQLite · Python 3.13 · Docker on Synology NAS
 
 ---
 
